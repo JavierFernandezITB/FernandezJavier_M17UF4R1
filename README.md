@@ -14,4 +14,5 @@
 - Cuando la salud de los enemigos baja del 50%, se repliegan y huyen del jugador.
 - Los enemigos persiguen al jugador si detectan su presencia y tienen más del 50% de salud.
 - Si el jugador se esconde o sale del campo de visión de los enemigos, estos dejarán de perseguirlo.
-- Si el jugador se esconde con mas del 80% de la vida, el enemigo patrullará la zona, si no, volvera a su puesto.
+- Si el jugador se esconde y el enemigo tiene mas del 80% de la vida, patrullará la zona, si no, volvera a su puesto.
+- Los enemigos pueden cambiar de región de patrulla aleatoriamente, por lo tanto, algunos enemigos no estarán en sus puestos.
