@@ -6,7 +6,7 @@ public class PlayerCamera : MonoBehaviour
 {
     public float mouseSensitivity = 100f;
     public Transform playerBody;
-    public float moveSpeed = 5f;
+    public float moveSpeed = 10f;
     public float jumpForce = 5f;
 
     private float xRotation = 0f;
